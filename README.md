@@ -1,6 +1,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Joti+One&size=40&pause=1000&color=6CC644&vCenter=true&width=590&lines=I'm+Reza+Effati+Moghaddam;Web+Developer;Experienced+UI%2FUX+Designer;4%2B+years+of+coding+experience;Always+learning+a+new+things)](https://git.io/typing-svg)
 
-#### My Social Networks
+#### My Social Networkss
 
 <a href="[https://www.linkedin.com/in/effati78](https://www.linkedin.com/in/sayedali-nourian-najafabadi-a44479127/)" target="_blank">
 <img src="https://user-images.githubusercontent.com/56348113/202894111-e6dda54b-8937-47ac-93f6-770617cda70c.svg" alt="linkedin" width="70">
