@@ -16,7 +16,7 @@
 </a> -->
 
 <h1 align="left">Hi there, I am Parsa Aslani 👋</h1>
-<h2 align="right">my Nickname is qLoganAniversity to Abbreviation qLogan</h2>
+<h2 align="left">my Nickname is qLoganAniversity to Abbreviation qLogan</h2>
   
 ### Technology:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
