@@ -19,40 +19,8 @@
 <h2 align="left">my Nickname is qLoganAniversity to Abbreviation qLogan</h2>
   
 ### Technology:
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery&logoColor=007ACC)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
-![PostCSS](https://img.shields.io/badge/-PostCSS-000?&logo=PostCSS&logoColor=D23925)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
-![PWA](https://img.shields.io/badge/-PWA-000?&logo=PWA)
-![Gulp.js](https://img.shields.io/badge/-Gulp.js-000?&logo=Gulp)
-![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
-![npm](https://img.shields.io/badge/-NPM-000?&logo=npm)
-![yarn](https://img.shields.io/badge/-Yarn-000?&logo=yarn)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-Github-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-Gitlab-000?&logo=GitLab)
-![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Cpp](https://img.shields.io/badge/-C%2B%2B-000?&logo=C%2B%2B&logoColor=6092C7)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
-![WindowsForms](https://img.shields.io/badge/-WinForms-000?&logo=csharp&logoColor=9468CC)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=ubuntu)
-![tmux](https://img.shields.io/badge/-Tmux-000?&logo=tmux)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode&logoColor=307CB1)
-![vim](https://img.shields.io/badge/-Vim-000?&logo=vim&logoColor=479433)
-![prettier](https://img.shields.io/badge/-Prettier-000?&logo=prettier)
-![telegraf](https://img.shields.io/badge/-Telegraf.js-000?&logo=telegram)
+![image](https://github.com/qLoganAniversity/qLoganAniversity/assets/115403383/d4906022-dfb7-4492-85b5-a99aefbd7196)
+
 
 
 ### Github Profile Details:
