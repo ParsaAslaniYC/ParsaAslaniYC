@@ -39,7 +39,7 @@
 
 ## **Contact Information** :telephone_receiver:
 - **Phone:** [+98-913-933-0765] :telephone:
-- **Email:** [parsaaslani.67@gamil.com] :envelope:
+- **Email:** [parsaaslani.67@gmail.com] :envelope:
 - **GitHub:** [qlogananiversity] :octocat:
 ## Hello, fellow coders and curious minds!
 
