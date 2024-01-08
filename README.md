@@ -40,7 +40,7 @@
 ## **Contact Information** :telephone_receiver:
 - **Phone:** [+98-913-933-0765] :telephone:
 - **Email:** [parsaaslani.67@gmail.com] :envelope:
-- **GitHub:** [qlogananiversity] :octocat:
+- **GitHub:** [ParsaAslaniYC] :octocat:
 ## Hello, fellow coders and curious minds!
 
 With my extensive knowledge on different programming languages like Python, C#, BatchScript, TCL and my exceptional skills in automation using Github Actions, I'm always looking for ways to enhance my skills and learn more.
