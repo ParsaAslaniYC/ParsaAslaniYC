@@ -71,4 +71,5 @@ As an innovative AI developer, I have a passion for learning and creating cuttin
 - Implement computer vision solutions using open-source libraries such as PySide or DearImGUI.
 - Provide guidance and mentorship to junior team members.
 
-## **I like a lot of leaks like Half Life 2: Alpha or Leak or Beta**
+
+![Device-ThumbnailBanner-Februrary](https://github.com/user-attachments/assets/467649f9-fc22-46d9-b092-00583131d105)
