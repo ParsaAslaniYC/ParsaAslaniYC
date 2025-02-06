@@ -1,0 +1,10 @@
+PROJECT_NAME=Moonlight OS
+BUILD_DIR=cache
+SRC_DIR=profile
+INCLUDE_DIR=include
+COMPILER=mkarchiso
+FLAGS=-v -w /tmp/work -o /tmp/out
+OUTPUT=balens
+INSTALLATION=F
+USE_BLSRC=false
+RESOURCE_FILE=BLSRC
