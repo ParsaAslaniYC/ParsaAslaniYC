@@ -7,7 +7,6 @@ i have no idea what to put here after this so i guess i'll close it like this.
 
 ### Find me by:
 -Telegram: https://t.me/itzParsaYC
-
 -X: @ParsaYC
 *you can almost find me everywhere by these usernames*
 
